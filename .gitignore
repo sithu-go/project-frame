@@ -1,0 +1,8 @@
+.env
+rsa_private.pem
+rsa_public.pem
+maintest.go
+
+**storage/qrcode
+
+ip2location_region.bin
